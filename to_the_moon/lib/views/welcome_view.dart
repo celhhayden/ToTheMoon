@@ -29,13 +29,13 @@ class WelcomeViewState extends State<WelcomeView> {
           Align(
             alignment: Alignment(0.0, -0.45),
             child: Container(
-              child: Text("to the moon",
+              child: Text("To The Moon",
                   style: TextStyle(
                       color: Colors.white,
                       fontSize: 35,
                       fontWeight: FontWeight.bold,
                       fontStyle: FontStyle.italic)),
-            ),
+            )
           ),
           Align(
             alignment: Alignment(0.0, 0),
